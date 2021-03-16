@@ -8,7 +8,45 @@ Here will record my progress on this repo test cases and [RealPython](https://re
 
 ### Koans
 > Progress on Koans Cases will be updated here.
-
+- [ ] about_asserts.py
+- [ ] about_attribute_access.py
+- [ ] about_class_attributes.py
+- [ ] about_classes.py
+- [ ] about_comprehension.py
+- [ ] about_control_statements.py
+- [ ] about_decorating_with_classes.py
+- [ ] about_decorating_with_functions.py
+- [ ] about_deleting_objects.py
+- [ ] about_dice_project.py
+- [ ] about_dictionaries.py
+- [ ] about_exceptions.py
+- [ ] about_extra_credit.py
+- [ ] about_generators.py
+- [ ] about_inheritance.py
+- [ ] about_iteration.py
+- [ ] about_lambdas.py
+- [ ] about_list_assignments.py
+- [ ] about_lists.py
+- [ ] about_method_bindings.py
+- [ ] about_methods.py
+- [ ] about_modules.py
+- [ ] about_monkey_patching.py
+- [ ] about_multiple_inheritance.py
+- [ ] about_none.py
+- [ ] about_packages.py
+- [ ] about_proxy_object_project.py
+- [ ] about_regex.py
+- [ ] about_scope.py
+- [ ] about_scoring_project.py
+- [ ] about_sets.py
+- [ ] about_string_manipulation.py
+- [ ] about_strings.py
+- [ ] about_triangle_project2.py
+- [ ] about_triangle_project.py
+- [ ] about_true_and_false.py
+- [ ] about_tuples.py
+- [ ] about_with_statements.py
+- [ ] another_local_module.py
 
 ### RealPython Quizzes
 > Progress on RealPython Quizzes will be updated here.
