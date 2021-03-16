@@ -8,7 +8,7 @@ Here will record my progress on this repo test cases and [RealPython](https://re
 
 ### Koans
 > Progress on Koans Cases will be updated here.
-- [ ] about_asserts.py
+- [x] about_asserts.py
 - [ ] about_attribute_access.py
 - [ ] about_class_attributes.py
 - [ ] about_classes.py
@@ -68,6 +68,7 @@ Here will record my progress on this repo test cases and [RealPython](https://re
 - [x] Python `while` Loops
   
   <img src="pics/python_while.png" width="60%" />
+  
 - [ ] Reading and Writing CSV Files in Python
 - [ ] Reading and Writing Files in Python
 - [ ] Rounding Numbers in Python
