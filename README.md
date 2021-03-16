@@ -65,7 +65,9 @@ Here will record my progress on this repo test cases and [RealPython](https://re
 - [ ] Python Strings and Character Data
 - [ ] Python Threading
 - [ ] Python Variables
-- [ ] Python `while` Loops
+- [x] Python `while` Loops
+  
+  <img src="pics/python_while.png" width="60%" />
 - [ ] Reading and Writing CSV Files in Python
 - [ ] Reading and Writing Files in Python
 - [ ] Rounding Numbers in Python
