@@ -15,5 +15,6 @@ from runner.koan import *
 class AboutExtraCredit(Koan):
     # Write tests here. If you need extra test classes add them to the
     # test suite in runner/path_to_enlightenment.py
+    # extra cases will be added into corresponding suite
     def test_extra_credit_task(self):
         pass

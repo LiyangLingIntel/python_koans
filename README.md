@@ -21,7 +21,7 @@ Here will record my progress on this repo test cases and [RealPython](https://re
 - [x] about_dice_project.py
 - [x] about_dictionaries.py
 - [x] about_exceptions.py
-- [ ] about_extra_credit.py
+- [x] about_extra_credit.py
 - [ ] about_generators.py
 - [ ] about_inheritance.py
 - [ ] about_iteration.py
