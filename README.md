@@ -17,7 +17,7 @@ Here will record my progress on this repo test cases and [RealPython](https://re
 - [x] about_control_statements.py
 - [x] about_decorating_with_classes.py
 - [x] about_decorating_with_functions.py
-- [ ] about_deleting_objects.py
+- [x] about_deleting_objects.py
 - [ ] about_dice_project.py
 - [ ] about_dictionaries.py
 - [ ] about_exceptions.py
