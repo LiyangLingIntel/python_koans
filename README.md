@@ -15,7 +15,7 @@ Here will record my progress on this repo test cases and [RealPython](https://re
   [Name Mangling](./koans/about_classes.py#L34)
 - [x] about_comprehension.py
 - [x] about_control_statements.py
-- [ ] about_decorating_with_classes.py
+- [x] about_decorating_with_classes.py
 - [ ] about_decorating_with_functions.py
 - [ ] about_deleting_objects.py
 - [ ] about_dice_project.py
