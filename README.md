@@ -11,7 +11,8 @@ Here will record my progress on this repo test cases and [RealPython](https://re
 - [x] about_asserts.py
 - [x] about_attribute_access.py
 - [x] about_class_attributes.py
-- [ ] about_classes.py
+- [x] about_classes.py
+  [Name Mangling](./koans/about_classes.py#L34)
 - [ ] about_comprehension.py
 - [ ] about_control_statements.py
 - [ ] about_decorating_with_classes.py
