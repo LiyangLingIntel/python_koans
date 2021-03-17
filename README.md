@@ -10,7 +10,7 @@ Here will record my progress on this repo test cases and [RealPython](https://re
 > Progress on Koans Cases will be updated here.
 - [x] about_asserts.py
 - [x] about_attribute_access.py
-- [ ] about_class_attributes.py
+- [x] about_class_attributes.py
 - [ ] about_classes.py
 - [ ] about_comprehension.py
 - [ ] about_control_statements.py
