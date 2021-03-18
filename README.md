@@ -24,7 +24,7 @@ Here will record my progress on this repo test cases and [RealPython](https://re
 - [x] about_extra_credit.py
 - [x] about_generators.py
 - [x] about_inheritance.py
-- [ ] about_iteration.py
+- [x] about_iteration.py
 - [ ] about_lambdas.py
 - [ ] about_list_assignments.py
 - [ ] about_lists.py
