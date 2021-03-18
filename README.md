@@ -12,7 +12,9 @@ Here will record my progress on this repo test cases and [RealPython](https://re
 - [x] about_attribute_access.py
 - [x] about_class_attributes.py
 - [x] about_classes.py
+  
   [Name Mangling](./koans/about_classes.py#L34)
+  
 - [x] about_comprehension.py
 - [x] about_control_statements.py
 - [x] about_decorating_with_classes.py
@@ -27,7 +29,8 @@ Here will record my progress on this repo test cases and [RealPython](https://re
 - [x] about_iteration.py
 - [x] about_lambdas.py
 - [x] about_list_assignments.py
-- [ ] about_lists.py
+- [x] about_lists.py
+  [Behaviours of list slicing and indexing](./koans/about_lists.py#54) 
 - [ ] about_method_bindings.py
 - [ ] about_methods.py
 - [ ] about_modules.py
