@@ -25,7 +25,7 @@ Here will record my progress on this repo test cases and [RealPython](https://re
 - [x] about_generators.py
 - [x] about_inheritance.py
 - [x] about_iteration.py
-- [ ] about_lambdas.py
+- [x] about_lambdas.py
 - [ ] about_list_assignments.py
 - [ ] about_lists.py
 - [ ] about_method_bindings.py
