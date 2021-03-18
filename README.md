@@ -30,8 +30,10 @@ Here will record my progress on this repo test cases and [RealPython](https://re
 - [x] about_lambdas.py
 - [x] about_list_assignments.py
 - [x] about_lists.py
-  [Behaviours of list slicing and indexing](./koans/about_lists.py#54) 
-- [ ] about_method_bindings.py
+  
+  [Behaviours of list slicing and indexing](./koans/about_lists.py#54)
+  
+- [x] about_method_bindings.py
 - [ ] about_methods.py
 - [ ] about_modules.py
 - [ ] about_monkey_patching.py
