@@ -46,7 +46,7 @@ Here will record my progress on this repo test cases and [RealPython](https://re
 - [ ] about_scoring_project.py
 - [x] about_sets.py
 - [ ] about_string_manipulation.py
-- [ ] about_strings.py
+- [x] about_strings.py
 - [ ] about_triangle_project2.py
 - [ ] about_triangle_project.py
 - [ ] about_true_and_false.py
