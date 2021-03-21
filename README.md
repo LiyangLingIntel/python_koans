@@ -39,7 +39,7 @@ Here will record my progress on this repo test cases and [RealPython](https://re
 - [x] about_monkey_patching.py
 - [x] about_multiple_inheritance.py
 - [x] about_none.py
-- [ ] about_packages.py
+- [x] about_packages.py
 - [ ] about_proxy_object_project.py
 - [ ] about_regex.py
 - [ ] about_scope.py
