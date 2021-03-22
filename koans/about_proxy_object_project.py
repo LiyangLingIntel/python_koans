@@ -18,14 +18,36 @@
 
 from runner.koan import *
 
+
 class Proxy:
     def __init__(self, target_object):
         # WRITE CODE HERE
-
-        #initialize '_obj' attribute last. Trust me on this!
+        self._messages = []
+        # initialize '_obj' attribute last. Trust me on this!
         self._obj = target_object
 
     # WRITE CODE HERE
+    def __getattr__(self, item):
+        attr = getattr(self._obj, item)
+        self._messages.append(item)
+        return attr
+
+    def __setattr__(self, key, value):
+        if key.startswith('_'):
+            return object.__setattr__(self, key, value)
+
+        setattr(self._obj, key, value)
+        self._messages.append(key)
+
+    def messages(self):
+        return self._messages
+
+    def was_called(self, item):
+        return item in self._messages
+
+    def number_of_times_called(self, item):
+        return len([msg for msg in self._messages if msg == item])
+
 
 # The proxy object should pass the following Koan:
 #
@@ -59,7 +81,6 @@ class AboutProxyObjectProject(Koan):
         with self.assertRaises(AttributeError):
             tv.no_such_method()
 
-
     def test_proxy_reports_methods_have_been_called(self):
         tv = Proxy(Television())
 
@@ -92,6 +113,7 @@ class AboutProxyObjectProject(Koan):
         self.assertEqual(["Py", "Ohio", "2010"], result)
         self.assertEqual(['upper', 'split'], proxy.messages())
 
+
 # ====================================================================
 # The following code is to support the testing of the Proxy class.  No
 # changes should be necessary to anything below this comment.
@@ -118,6 +140,7 @@ class Television:
 
     def is_on(self):
         return self._power == 'on'
+
 
 # Tests for the Television class.  All of theses tests should pass.
 class TelevisionTest(Koan):
