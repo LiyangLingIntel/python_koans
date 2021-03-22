@@ -49,7 +49,7 @@ Here will record my progress on this repo test cases and [RealPython](https://re
 - [x] about_strings.py
 - [ ] about_triangle_project2.py
 - [ ] about_triangle_project.py
-- [ ] about_true_and_false.py
+- [x] about_true_and_false.py
 - [x] about_tuples.py
 - [ ] about_with_statements.py
 - [ ] another_local_module.py
