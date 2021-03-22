@@ -51,8 +51,7 @@ Here will record my progress on this repo test cases and [RealPython](https://re
 - [ ] about_triangle_project.py
 - [x] about_true_and_false.py
 - [x] about_tuples.py
-- [ ] about_with_statements.py
-- [ ] another_local_module.py
+- [x] about_with_statements.py
 
 ### RealPython Quizzes
 > Progress on RealPython Quizzes will be updated here.
