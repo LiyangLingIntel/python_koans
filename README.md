@@ -42,7 +42,7 @@ Here will record my progress on this repo test cases and [RealPython](https://re
 - [x] about_packages.py
 - [x] about_proxy_object_project.py
 - [x] about_regex.py
-- [ ] about_scope.py
+- [x] about_scope.py
 - [ ] about_scoring_project.py
 - [x] about_sets.py
 - [ ] about_string_manipulation.py
