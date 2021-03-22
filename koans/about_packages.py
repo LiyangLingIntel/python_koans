@@ -27,14 +27,14 @@ from runner.koan import *
 class AboutPackages(Koan):
     def test_subfolders_can_form_part_of_a_module_package(self):
         # Import ./a_package_folder/a_module.py
-        from koans.a_package_folder.a_module import Duck
+        from .a_package_folder.a_module import Duck
 
         duck = Duck()
         self.assertEqual("Donald", duck.name)
 
     def test_subfolders_become_modules_if_they_have_an_init_module(self):
         # Import ./a_package_folder/__init__.py
-        from koans.a_package_folder import an_attribute
+        from .a_package_folder import an_attribute
 
         self.assertEqual(1984, an_attribute)
 
@@ -62,3 +62,6 @@ class AboutPackages(Koan):
 
     # It seems because of the way of parse file tree in different IDE, local package would fail on PyCharm, but works
     # on VSCode or CMD
+    # After switch to pytest, local package import can work successfully.
+    # The Preliminary Conclusion is PyCharm use Unittest by default, but it seems pytest and unittest have different
+    # behaviours on PYTHONPATH setting, which may have impact on python package local import.
