@@ -16,8 +16,22 @@
 # and
 #   about_triangle_project_2.py
 #
+
+def check_edges(a, b, c):
+    if a < 0 or b < 0 or c < 0:
+        return False
+    edges = sorted([a, b, c])
+    if edges[0] + edges[1] <= edges[2]:
+        return False
+    return True
+
+
 def triangle(a, b, c):
     # DELETE 'PASS' AND WRITE THIS CODE
+
+    if not check_edges(a, b, c):
+        raise TriangleError
+
     edges = {a, b, c}
     if len(edges) == 1:
         return 'equilateral'
