@@ -83,19 +83,55 @@ Here will record my progress on this repo test cases and [RealPython](https://re
       
   <img src="pics/python_dict_iteration.png" width="60%" />
   
-- [ ] Python Lambda Function
-- [ ] Python Lists and Tuples
-- [ ] Python Operators and Expressions
-- [ ] Python Program Structure
-- [ ] Python Sets
-- [ ] Python Strings and Character Data
-- [ ] Python Threading
-- [ ] Python Variables
+- [x] Python Lambda Function
+        
+  <img src="pics/lambda_functions.png" width="60%" />
+  
+- [x] Python Lists and Tuples
+        
+  <img src="pics/list_tuple.png" width="60%" />
+  
+- [x] Python Operators and Expressions
+        
+  <img src="pics/operators_expressions.png" width="60%" />
+  
+- [x] Python Program Structure
+        
+  <img src="pics/program_structure.png" width="60%" />
+  
+- [x] Python Sets
+        
+  <img src="pics/python_sets.png" width="60%" />
+  
+- [x] Python Strings and Character Data
+        
+  <img src="pics/string_character_data.png" width="60%" />
+  
+- [x] Python Threading
+        
+  <img src="pics/python_threading.png" width="60%" />
+  
+- [x] Python Variables
+        
+  <img src="pics/python_vars.png" width="60%" />
+  
 - [x] Python `while` Loops
   
   <img src="pics/python_while.png" width="60%" />
   
-- [ ] Reading and Writing CSV Files in Python
-- [ ] Reading and Writing Files in Python
-- [ ] Rounding Numbers in Python
-- [ ] Splitting, Concatenating and Joining Strings in Python
+- [x] Reading and Writing CSV Files in Python
+        
+  <img src="pics/read_write_csv.png" width="60%" />
+  
+- [x] Reading and Writing Files in Python
+        
+  <img src="pics/read_write_file.png" width="60%" />
+  
+- [x] Rounding Numbers in Python
+        
+  <img src="pics/rounding_number.png" width="60%" />
+  
+- [x] Splitting, Concatenating and Joining Strings in Python
+      
+  <img src="pics/split_concat_join_str.png" width="60%" />
+  
