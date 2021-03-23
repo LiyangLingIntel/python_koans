@@ -55,13 +55,34 @@ Here will record my progress on this repo test cases and [RealPython](https://re
 
 ### RealPython Quizzes
 > Progress on RealPython Quizzes will be updated here.
-- [ ] Basic Data Type in Python
-- [ ] How to run your Python Scripts
-- [ ] HTTP Requests with `requests` Library
-- [ ] Python Concurrency
-- [ ] Python Conditional Statement
-- [ ] Python Dictionaries
-- [ ] Python Dictionary Iteration
+- [x] Basic Data Type in Python
+    
+  <img src="pics/basic_data_type.png" width="60%" />
+  
+- [x] How to run your Python Scripts
+    
+  <img src="pics/run_scripts.png" width="60%" />
+  
+- [x] HTTP Requests with `requests` Library
+      
+  <img src="pics/requests.png" width="60%" />
+  
+- [x] Python Concurrency
+      
+  <img src="pics/python_concurrency.png" width="60%" />
+  
+- [x] Python Conditional Statement
+      
+  <img src="pics/conditional_statements.png" width="60%" />
+  
+- [x] Python Dictionaries
+      
+  <img src="pics/python_dict.png" width="60%" />
+  
+- [x] Python Dictionary Iteration
+      
+  <img src="pics/python_dict_iteration.png" width="60%" />
+  
 - [ ] Python Lambda Function
 - [ ] Python Lists and Tuples
 - [ ] Python Operators and Expressions
