@@ -179,3 +179,9 @@ class AboutClasses(Koan):
 
         self.assertEqual('STRING', str("STRING"))
         self.assertEqual("'STRING'", repr("STRING"))  # by default, python string is wrapped by single quote
+
+    # The default implementation is useless (it’s hard to think of one which wouldn’t be, but yeah)
+    # __repr__ goal is to be unambiguous
+    # __str__ goal is to be readable
+    # Container’s __str__ uses contained objects’ __repr__
+    # ideas from https://stackoverflow.com/questions/1436703/what-is-the-difference-between-str-and-repr/1436756#1436756
